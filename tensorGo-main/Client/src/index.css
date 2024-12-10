@@ -1,0 +1,40 @@
+#loginPage{
+  background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#form{
+  padding-top: 244px;
+  padding-bottom: 204px;
+}
+
+#head{
+  display: flex;
+  flex-wrap:  wrap;
+  justify-content: space-between;
+}
+
+.headerLink{
+  text-decoration: none;
+  color: black;
+}
+
+#header{
+  background-color: aquamarine;
+}
+
+#comments{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#comm{
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+#profile{
+  text-align: center;
+}
